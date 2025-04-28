@@ -55,16 +55,20 @@ plt.title("Result of Hough Transform")
 plt.axis('off')
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/90ec1a21-1e25-4869-9b8c-f350ce24513d)
+![image](https://github.com/user-attachments/assets/3dc52c1c-40ba-423f-9e8d-a2e63582e4a8)
+
 
 ### Input image and grayscale image
-![image](https://github.com/user-attachments/assets/c9e14486-a61c-4cd5-a5ff-553a283a9005)
+![image](https://github.com/user-attachments/assets/2483e5e5-6a42-4195-961f-74f044e17887)
+
 
 ### Canny Edge detector output
-![image](https://github.com/user-attachments/assets/091ce5c0-d58e-4e38-875b-ff23e31935bf)
+![image](https://github.com/user-attachments/assets/8e3f56ac-a8fb-417a-8d29-b1c8d9fd8de4)
+
 
 ### Display the result of Hough transform
-![image](https://github.com/user-attachments/assets/b2c10061-1f4d-4545-9e1f-df236600d07d)
+![image](https://github.com/user-attachments/assets/d4f8b825-e057-44b3-b63d-89b18136f59c)
+
 
 ## RESULT:
 Thus the programs are executed successfully.
